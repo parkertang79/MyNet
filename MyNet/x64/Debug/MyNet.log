@@ -1,0 +1,50 @@
+﻿  ClientMain.cpp
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(172,2): warning C4102: “RESULT”: 未引用的标签
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(352,2): warning C4102: “RESULT”: 未引用的标签
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(431,2): warning C4102: “RESULT”: 未引用的标签
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(474,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(497,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(512,2): warning C4102: “RESULT”: 未引用的标签
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(570,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(589,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(600,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(635,2): warning C4102: “RESULT”: 未引用的标签
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(766,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(778,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(806,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(847,1): warning C4102: “RESULT”: 未引用的标签
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(896,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ClientMain.cpp”)
+  
+E:\VS\Projects\MyNet\MyNet\leetcode1.h(916,2): warning C4102: “RESULT”: 未引用的标签
+  (编译源文件“ClientMain.cpp”)
+  
+  MyNet.vcxproj -> E:\VS\Projects\MyNet\x64\Debug\MyNet.exe
